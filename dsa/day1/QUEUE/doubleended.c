@@ -130,6 +130,7 @@ int main() {
 }
 
 /*
+
 Enter the number of elements: 4
 Enter value to insert at rear: 10
 Enter value to insert at rear: 20
@@ -139,4 +140,5 @@ Deque elements: 10 20 30 40
 Front element deleted: 10
 Rear element deleted: 40
 Deque elements: 20 30 
+
 */
